@@ -7,7 +7,7 @@ Clean, analyze, and visualize customers behavior data to produce a report with a
 Project Specification (.docx)
 
 ## Dataset: 
-churn analysis (.csv)
+churn analysis dataset (.csv)
 
 ## Dashboard: 
 Churn Analysis (.pbix)
