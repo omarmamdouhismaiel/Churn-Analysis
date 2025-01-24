@@ -14,3 +14,6 @@ Churn Analysis (.pbix)
 
 ## Report: 
 Churn Analysis Process (.docx)
+
+## Predictive Analysis:
+Customer Churn Prediction (.ipynb)
